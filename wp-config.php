@@ -22,7 +22,7 @@ define('DB_NAME', 'bl537804');
 define('DB_USER', 'bl537804');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', '0B12712F20F047EB86B9EFA97CFF8DDC');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
